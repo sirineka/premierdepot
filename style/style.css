@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+.logo{
+    width: 75px;
+}
+h1{
+    padding: 1em;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+h5{
+    font-weight: bold;
+    color:blue;
+}
+.row{
+    margin-bottom: 15px;
+}
+
